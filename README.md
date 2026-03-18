@@ -29,8 +29,6 @@ The system integrates multiple sensors and communication modules, coordinated by
 - **Motor Driver (L293D/L298N):** Used in demo setups to simulate vehicle movement.  
 - **Power Supply Unit:** Ensures stable voltage regulation.  
 
-![System Architecture Diagram](https://copilot.microsoft.com/th/id/BCO.8cc2f57f-5dd5-4d66-be00-ece7a66069b2.png)
-
 ---
 
 ## ⚙️ Working of Each Component  
@@ -51,8 +49,6 @@ The system integrates multiple sensors and communication modules, coordinated by
 3. **Alert Transmission:** GSM module sends SMS alerts to emergency contacts.  
 4. **Notification:** LCD displays accident details; buzzer provides local alarm.  
 5. **Manual Override:** Push button ensures reliability if automatic detection fails.  
-
-![Workflow Chart](https://copilot.microsoft.com/th/id/BCO.b707d42d-9824-442a-865f-ed3872620797.png)
 
 ---
 
