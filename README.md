@@ -67,7 +67,6 @@ The system integrates multiple sensors and communication modules, coordinated by
 
 ## 🚀 Conclusion and Future Vision  
 This project demonstrates how **embedded systems + IoT** can solve real‑world safety challenges. By automating emergency alerts and providing precise GPS data, we significantly reduce rescue response times.  
-(https://projectmaker.in/projects.php?pname=gps+based+car+accident+and+alcohol+detection+system+project)
 
 **Future Enhancements:**  
 - Integration with emergency dispatch systems.  
